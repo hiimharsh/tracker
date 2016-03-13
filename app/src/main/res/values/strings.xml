@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Active Employee Tracker</string>
+
+    <!-- Login -->
+    <string name="loginid">Login Id</string>
+    <string name="password">Password</string>
+    <string name="company">Company</string>
+    <string name="login">Login</string>
+</resources>
